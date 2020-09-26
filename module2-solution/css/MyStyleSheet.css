@@ -7,6 +7,16 @@ h1 {
   margin-bottom: 30px;
   text-align: center;
 }
+.pink {
+	background-color: pink;
+}
+.white {
+	color: white;
+	background-color: red;
+}
+.yellow {
+	background-color: yellow;
+}
 h2 {
 	position: absolute;
 	top: 0;
